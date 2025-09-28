@@ -23,7 +23,7 @@ export const pagesConfig: PagesConfig = {
   },
   skills: {
     title: "Services",
-    description: "What to expect each session.",
+    description: "What to expect in each session.",
     metadata: {
       title: "Skills",
       description:

@@ -16,9 +16,9 @@ export const skillsUnsorted: skillsInterface[] = [
     icon: Icons.nextjs,
   },
   {
-    name: "React",
+    name: "Exercise Rehabilitation",
     description:
-      "Craft interactive user interfaces using components, state, props, and virtual DOM.",
+      "Create a personalised exercise rehabilitation plan unique to your activity for pain management at home.",
     rating: 5,
     icon: Icons.react,
   },

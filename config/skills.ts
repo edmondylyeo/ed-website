@@ -37,9 +37,9 @@ export const skillsUnsorted: skillsInterface[] = [
     icon: Icons.nestjs,
   },
   {
-    name: "express.js",
+    name: "Manual Therapy",
     description:
-      "Build web applications and APIs quickly using a fast, unopinionated Node.js framework.",
+      "Passive treatment techniques to alleviate pain, increase range of motion, reduce inflammation and promote tissue relaxation.",
     rating: 5,
     icon: Icons.express,
   },

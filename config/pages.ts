@@ -22,7 +22,7 @@ export const pagesConfig: PagesConfig = {
     },
   },
   skills: {
-    title: "What to expect for each session",
+    title: "Services",
     description: "Key skills that define my professional identity.",
     metadata: {
       title: "Skills",

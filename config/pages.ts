@@ -31,8 +31,8 @@ export const pagesConfig: PagesConfig = {
     },
   },
   projects: {
-    title: "Projects",
-    description: "Showcasing impactful projects and technical achievements.",
+    title: "Treatment",
+    description: "Common conditions I treat.",
     metadata: {
       title: "Projects",
       description: "Edmond Yeo's projects in building web applications.",

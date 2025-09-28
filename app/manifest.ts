@@ -5,7 +5,7 @@ export default function manifest(): MetadataRoute.Manifest {
     name: "Edmond Yeo Portfolio",
     short_name: "Naman's Portfolio",
     description:
-      "Edmond Yeo's modern developer portfolio built with Next.js - available as an open-source template",
+      "Edmond Yeo's modern developer portfolio built with Dry Needling - available as an open-source template",
     start_url: "/",
     display: "standalone",
     background_color: "#ffffff",

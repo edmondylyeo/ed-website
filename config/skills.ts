@@ -9,9 +9,9 @@ export interface skillsInterface {
 
 export const skillsUnsorted: skillsInterface[] = [
   {
-    name: "Next.js",
+    name: "Dry Needling",
     description:
-      "Effortlessly build dynamic apps with routing, layouts, loading UI, and API routes.",
+      "Uses microfilament needles to treat neuromusclar pain and dysfunction by targeting myofascial trigger points.",
     rating: 5,
     icon: Icons.nextjs,
   },

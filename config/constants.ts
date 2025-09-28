@@ -1,5 +1,5 @@
 export type ValidSkills =
-  | "Next.js"
+  | "Dry Needling"
   | "React"
   | "GraphQL"
   | "Nest.js"
